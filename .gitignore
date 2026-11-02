@@ -1,0 +1,52 @@
+# Flutter
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+
+# Android
+.gradle/
+local.properties
+*.jks
+*.keystore
+
+# iOS
+Pods/
+DerivedData/
+*.xcuserstate
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+
+# Logs / crash dumps
+*.log
+hs_err_pid*
+replay_pid*
+
+# OS files
+.DS_Store
+# Python
+__pycache__/
+*.pyc
+
+# Python
+__pycache__/
+*.pyc
+
+# Python
+__pycache__/
+*.pyc
